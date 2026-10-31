@@ -52,7 +52,7 @@ let currentStyle = 'full-sidebar';
 let currentColor = 'charcoal-and-copper';
 
 function updatePreview() {
-  previewImg.src = '/' + currentStyle + '__' + currentColor + '.png';
+  previewImg.src = 'assets/matrix/' + currentStyle + '__' + currentColor + '.png';
   previewImg.alt = 'Resume preview in a selected layout and color';
   layoutPills.querySelectorAll('button').forEach(b => b.classList.toggle('active', b.dataset.style === currentStyle));
   colorSwatches.querySelectorAll('button').forEach(b => b.classList.toggle('active', b.dataset.color === currentColor));
