@@ -1,0 +1,639 @@
+[
+  {
+    "style": "timeline",
+    "styleName": "Traditional",
+    "color": "navy-and-gold",
+    "colorName": "Navy & Gold",
+    "file": "timeline__navy-and-gold.docx"
+  },
+  {
+    "style": "timeline",
+    "styleName": "Traditional",
+    "color": "forest-and-copper",
+    "colorName": "Forest & Copper",
+    "file": "timeline__forest-and-copper.docx"
+  },
+  {
+    "style": "timeline",
+    "styleName": "Traditional",
+    "color": "slate-and-teal",
+    "colorName": "Slate & Teal",
+    "file": "timeline__slate-and-teal.docx"
+  },
+  {
+    "style": "timeline",
+    "styleName": "Traditional",
+    "color": "plum-and-mauve",
+    "colorName": "Plum & Mauve",
+    "file": "timeline__plum-and-mauve.docx"
+  },
+  {
+    "style": "timeline",
+    "styleName": "Traditional",
+    "color": "charcoal-and-copper",
+    "colorName": "Charcoal & Copper",
+    "file": "timeline__charcoal-and-copper.docx"
+  },
+  {
+    "style": "timeline",
+    "styleName": "Traditional",
+    "color": "crimson-and-charcoal",
+    "colorName": "Crimson & Charcoal",
+    "file": "timeline__crimson-and-charcoal.docx"
+  },
+  {
+    "style": "timeline",
+    "styleName": "Traditional",
+    "color": "ocean-and-sand",
+    "colorName": "Ocean & Sand",
+    "file": "timeline__ocean-and-sand.docx"
+  },
+  {
+    "style": "timeline",
+    "styleName": "Traditional",
+    "color": "olive-and-rust",
+    "colorName": "Olive & Rust",
+    "file": "timeline__olive-and-rust.docx"
+  },
+  {
+    "style": "timeline",
+    "styleName": "Traditional",
+    "color": "indigo-and-rose",
+    "colorName": "Indigo & Rose",
+    "file": "timeline__indigo-and-rose.docx"
+  },
+  {
+    "style": "timeline",
+    "styleName": "Traditional",
+    "color": "burgundy-and-umber",
+    "colorName": "Burgundy & Umber",
+    "file": "timeline__burgundy-and-umber.docx"
+  },
+  {
+    "style": "timeline",
+    "styleName": "Traditional",
+    "color": "steel-blue-and-amber",
+    "colorName": "Steel Blue & Amber",
+    "file": "timeline__steel-blue-and-amber.docx"
+  },
+  {
+    "style": "timeline",
+    "styleName": "Traditional",
+    "color": "emerald-and-ivory",
+    "colorName": "Emerald & Ivory",
+    "file": "timeline__emerald-and-ivory.docx"
+  },
+  {
+    "style": "timeline",
+    "styleName": "Traditional",
+    "color": "black-and-white",
+    "colorName": "Black & White",
+    "file": "timeline__black-and-white.docx"
+  },
+  {
+    "style": "sidebar-banner",
+    "styleName": "Bold Banner",
+    "color": "navy-and-gold",
+    "colorName": "Navy & Gold",
+    "file": "sidebar-banner__navy-and-gold.docx"
+  },
+  {
+    "style": "sidebar-banner",
+    "styleName": "Bold Banner",
+    "color": "forest-and-copper",
+    "colorName": "Forest & Copper",
+    "file": "sidebar-banner__forest-and-copper.docx"
+  },
+  {
+    "style": "sidebar-banner",
+    "styleName": "Bold Banner",
+    "color": "slate-and-teal",
+    "colorName": "Slate & Teal",
+    "file": "sidebar-banner__slate-and-teal.docx"
+  },
+  {
+    "style": "sidebar-banner",
+    "styleName": "Bold Banner",
+    "color": "plum-and-mauve",
+    "colorName": "Plum & Mauve",
+    "file": "sidebar-banner__plum-and-mauve.docx"
+  },
+  {
+    "style": "sidebar-banner",
+    "styleName": "Bold Banner",
+    "color": "charcoal-and-copper",
+    "colorName": "Charcoal & Copper",
+    "file": "sidebar-banner__charcoal-and-copper.docx"
+  },
+  {
+    "style": "sidebar-banner",
+    "styleName": "Bold Banner",
+    "color": "crimson-and-charcoal",
+    "colorName": "Crimson & Charcoal",
+    "file": "sidebar-banner__crimson-and-charcoal.docx"
+  },
+  {
+    "style": "sidebar-banner",
+    "styleName": "Bold Banner",
+    "color": "ocean-and-sand",
+    "colorName": "Ocean & Sand",
+    "file": "sidebar-banner__ocean-and-sand.docx"
+  },
+  {
+    "style": "sidebar-banner",
+    "styleName": "Bold Banner",
+    "color": "olive-and-rust",
+    "colorName": "Olive & Rust",
+    "file": "sidebar-banner__olive-and-rust.docx"
+  },
+  {
+    "style": "sidebar-banner",
+    "styleName": "Bold Banner",
+    "color": "indigo-and-rose",
+    "colorName": "Indigo & Rose",
+    "file": "sidebar-banner__indigo-and-rose.docx"
+  },
+  {
+    "style": "sidebar-banner",
+    "styleName": "Bold Banner",
+    "color": "burgundy-and-umber",
+    "colorName": "Burgundy & Umber",
+    "file": "sidebar-banner__burgundy-and-umber.docx"
+  },
+  {
+    "style": "sidebar-banner",
+    "styleName": "Bold Banner",
+    "color": "steel-blue-and-amber",
+    "colorName": "Steel Blue & Amber",
+    "file": "sidebar-banner__steel-blue-and-amber.docx"
+  },
+  {
+    "style": "sidebar-banner",
+    "styleName": "Bold Banner",
+    "color": "emerald-and-ivory",
+    "colorName": "Emerald & Ivory",
+    "file": "sidebar-banner__emerald-and-ivory.docx"
+  },
+  {
+    "style": "sidebar-banner",
+    "styleName": "Bold Banner",
+    "color": "black-and-white",
+    "colorName": "Black & White",
+    "file": "sidebar-banner__black-and-white.docx"
+  },
+  {
+    "style": "full-sidebar",
+    "styleName": "Full Color",
+    "color": "navy-and-gold",
+    "colorName": "Navy & Gold",
+    "file": "full-sidebar__navy-and-gold.docx"
+  },
+  {
+    "style": "full-sidebar",
+    "styleName": "Full Color",
+    "color": "forest-and-copper",
+    "colorName": "Forest & Copper",
+    "file": "full-sidebar__forest-and-copper.docx"
+  },
+  {
+    "style": "full-sidebar",
+    "styleName": "Full Color",
+    "color": "slate-and-teal",
+    "colorName": "Slate & Teal",
+    "file": "full-sidebar__slate-and-teal.docx"
+  },
+  {
+    "style": "full-sidebar",
+    "styleName": "Full Color",
+    "color": "plum-and-mauve",
+    "colorName": "Plum & Mauve",
+    "file": "full-sidebar__plum-and-mauve.docx"
+  },
+  {
+    "style": "full-sidebar",
+    "styleName": "Full Color",
+    "color": "charcoal-and-copper",
+    "colorName": "Charcoal & Copper",
+    "file": "full-sidebar__charcoal-and-copper.docx"
+  },
+  {
+    "style": "full-sidebar",
+    "styleName": "Full Color",
+    "color": "crimson-and-charcoal",
+    "colorName": "Crimson & Charcoal",
+    "file": "full-sidebar__crimson-and-charcoal.docx"
+  },
+  {
+    "style": "full-sidebar",
+    "styleName": "Full Color",
+    "color": "ocean-and-sand",
+    "colorName": "Ocean & Sand",
+    "file": "full-sidebar__ocean-and-sand.docx"
+  },
+  {
+    "style": "full-sidebar",
+    "styleName": "Full Color",
+    "color": "olive-and-rust",
+    "colorName": "Olive & Rust",
+    "file": "full-sidebar__olive-and-rust.docx"
+  },
+  {
+    "style": "full-sidebar",
+    "styleName": "Full Color",
+    "color": "indigo-and-rose",
+    "colorName": "Indigo & Rose",
+    "file": "full-sidebar__indigo-and-rose.docx"
+  },
+  {
+    "style": "full-sidebar",
+    "styleName": "Full Color",
+    "color": "burgundy-and-umber",
+    "colorName": "Burgundy & Umber",
+    "file": "full-sidebar__burgundy-and-umber.docx"
+  },
+  {
+    "style": "full-sidebar",
+    "styleName": "Full Color",
+    "color": "steel-blue-and-amber",
+    "colorName": "Steel Blue & Amber",
+    "file": "full-sidebar__steel-blue-and-amber.docx"
+  },
+  {
+    "style": "full-sidebar",
+    "styleName": "Full Color",
+    "color": "emerald-and-ivory",
+    "colorName": "Emerald & Ivory",
+    "file": "full-sidebar__emerald-and-ivory.docx"
+  },
+  {
+    "style": "full-sidebar",
+    "styleName": "Full Color",
+    "color": "black-and-white",
+    "colorName": "Black & White",
+    "file": "full-sidebar__black-and-white.docx"
+  },
+  {
+    "style": "diagonal-navy",
+    "styleName": "Sharp & Structured",
+    "color": "navy-and-gold",
+    "colorName": "Navy & Gold",
+    "file": "diagonal-navy__navy-and-gold.docx"
+  },
+  {
+    "style": "diagonal-navy",
+    "styleName": "Sharp & Structured",
+    "color": "forest-and-copper",
+    "colorName": "Forest & Copper",
+    "file": "diagonal-navy__forest-and-copper.docx"
+  },
+  {
+    "style": "diagonal-navy",
+    "styleName": "Sharp & Structured",
+    "color": "slate-and-teal",
+    "colorName": "Slate & Teal",
+    "file": "diagonal-navy__slate-and-teal.docx"
+  },
+  {
+    "style": "diagonal-navy",
+    "styleName": "Sharp & Structured",
+    "color": "plum-and-mauve",
+    "colorName": "Plum & Mauve",
+    "file": "diagonal-navy__plum-and-mauve.docx"
+  },
+  {
+    "style": "diagonal-navy",
+    "styleName": "Sharp & Structured",
+    "color": "charcoal-and-copper",
+    "colorName": "Charcoal & Copper",
+    "file": "diagonal-navy__charcoal-and-copper.docx"
+  },
+  {
+    "style": "diagonal-navy",
+    "styleName": "Sharp & Structured",
+    "color": "crimson-and-charcoal",
+    "colorName": "Crimson & Charcoal",
+    "file": "diagonal-navy__crimson-and-charcoal.docx"
+  },
+  {
+    "style": "diagonal-navy",
+    "styleName": "Sharp & Structured",
+    "color": "ocean-and-sand",
+    "colorName": "Ocean & Sand",
+    "file": "diagonal-navy__ocean-and-sand.docx"
+  },
+  {
+    "style": "diagonal-navy",
+    "styleName": "Sharp & Structured",
+    "color": "olive-and-rust",
+    "colorName": "Olive & Rust",
+    "file": "diagonal-navy__olive-and-rust.docx"
+  },
+  {
+    "style": "diagonal-navy",
+    "styleName": "Sharp & Structured",
+    "color": "indigo-and-rose",
+    "colorName": "Indigo & Rose",
+    "file": "diagonal-navy__indigo-and-rose.docx"
+  },
+  {
+    "style": "diagonal-navy",
+    "styleName": "Sharp & Structured",
+    "color": "burgundy-and-umber",
+    "colorName": "Burgundy & Umber",
+    "file": "diagonal-navy__burgundy-and-umber.docx"
+  },
+  {
+    "style": "diagonal-navy",
+    "styleName": "Sharp & Structured",
+    "color": "steel-blue-and-amber",
+    "colorName": "Steel Blue & Amber",
+    "file": "diagonal-navy__steel-blue-and-amber.docx"
+  },
+  {
+    "style": "diagonal-navy",
+    "styleName": "Sharp & Structured",
+    "color": "emerald-and-ivory",
+    "colorName": "Emerald & Ivory",
+    "file": "diagonal-navy__emerald-and-ivory.docx"
+  },
+  {
+    "style": "diagonal-navy",
+    "styleName": "Sharp & Structured",
+    "color": "black-and-white",
+    "colorName": "Black & White",
+    "file": "diagonal-navy__black-and-white.docx"
+  },
+  {
+    "style": "muted-sidebar",
+    "styleName": "Soft Accent",
+    "color": "navy-and-gold",
+    "colorName": "Navy & Gold",
+    "file": "muted-sidebar__navy-and-gold.docx"
+  },
+  {
+    "style": "muted-sidebar",
+    "styleName": "Soft Accent",
+    "color": "forest-and-copper",
+    "colorName": "Forest & Copper",
+    "file": "muted-sidebar__forest-and-copper.docx"
+  },
+  {
+    "style": "muted-sidebar",
+    "styleName": "Soft Accent",
+    "color": "slate-and-teal",
+    "colorName": "Slate & Teal",
+    "file": "muted-sidebar__slate-and-teal.docx"
+  },
+  {
+    "style": "muted-sidebar",
+    "styleName": "Soft Accent",
+    "color": "plum-and-mauve",
+    "colorName": "Plum & Mauve",
+    "file": "muted-sidebar__plum-and-mauve.docx"
+  },
+  {
+    "style": "muted-sidebar",
+    "styleName": "Soft Accent",
+    "color": "charcoal-and-copper",
+    "colorName": "Charcoal & Copper",
+    "file": "muted-sidebar__charcoal-and-copper.docx"
+  },
+  {
+    "style": "muted-sidebar",
+    "styleName": "Soft Accent",
+    "color": "crimson-and-charcoal",
+    "colorName": "Crimson & Charcoal",
+    "file": "muted-sidebar__crimson-and-charcoal.docx"
+  },
+  {
+    "style": "muted-sidebar",
+    "styleName": "Soft Accent",
+    "color": "ocean-and-sand",
+    "colorName": "Ocean & Sand",
+    "file": "muted-sidebar__ocean-and-sand.docx"
+  },
+  {
+    "style": "muted-sidebar",
+    "styleName": "Soft Accent",
+    "color": "olive-and-rust",
+    "colorName": "Olive & Rust",
+    "file": "muted-sidebar__olive-and-rust.docx"
+  },
+  {
+    "style": "muted-sidebar",
+    "styleName": "Soft Accent",
+    "color": "indigo-and-rose",
+    "colorName": "Indigo & Rose",
+    "file": "muted-sidebar__indigo-and-rose.docx"
+  },
+  {
+    "style": "muted-sidebar",
+    "styleName": "Soft Accent",
+    "color": "burgundy-and-umber",
+    "colorName": "Burgundy & Umber",
+    "file": "muted-sidebar__burgundy-and-umber.docx"
+  },
+  {
+    "style": "muted-sidebar",
+    "styleName": "Soft Accent",
+    "color": "steel-blue-and-amber",
+    "colorName": "Steel Blue & Amber",
+    "file": "muted-sidebar__steel-blue-and-amber.docx"
+  },
+  {
+    "style": "muted-sidebar",
+    "styleName": "Soft Accent",
+    "color": "emerald-and-ivory",
+    "colorName": "Emerald & Ivory",
+    "file": "muted-sidebar__emerald-and-ivory.docx"
+  },
+  {
+    "style": "muted-sidebar",
+    "styleName": "Soft Accent",
+    "color": "black-and-white",
+    "colorName": "Black & White",
+    "file": "muted-sidebar__black-and-white.docx"
+  },
+  {
+    "style": "ats-simple",
+    "styleName": "Classic Clean",
+    "color": "navy-and-gold",
+    "colorName": "Navy & Gold",
+    "file": "ats-simple__navy-and-gold.docx"
+  },
+  {
+    "style": "ats-simple",
+    "styleName": "Classic Clean",
+    "color": "forest-and-copper",
+    "colorName": "Forest & Copper",
+    "file": "ats-simple__forest-and-copper.docx"
+  },
+  {
+    "style": "ats-simple",
+    "styleName": "Classic Clean",
+    "color": "slate-and-teal",
+    "colorName": "Slate & Teal",
+    "file": "ats-simple__slate-and-teal.docx"
+  },
+  {
+    "style": "ats-simple",
+    "styleName": "Classic Clean",
+    "color": "plum-and-mauve",
+    "colorName": "Plum & Mauve",
+    "file": "ats-simple__plum-and-mauve.docx"
+  },
+  {
+    "style": "ats-simple",
+    "styleName": "Classic Clean",
+    "color": "charcoal-and-copper",
+    "colorName": "Charcoal & Copper",
+    "file": "ats-simple__charcoal-and-copper.docx"
+  },
+  {
+    "style": "ats-simple",
+    "styleName": "Classic Clean",
+    "color": "crimson-and-charcoal",
+    "colorName": "Crimson & Charcoal",
+    "file": "ats-simple__crimson-and-charcoal.docx"
+  },
+  {
+    "style": "ats-simple",
+    "styleName": "Classic Clean",
+    "color": "ocean-and-sand",
+    "colorName": "Ocean & Sand",
+    "file": "ats-simple__ocean-and-sand.docx"
+  },
+  {
+    "style": "ats-simple",
+    "styleName": "Classic Clean",
+    "color": "olive-and-rust",
+    "colorName": "Olive & Rust",
+    "file": "ats-simple__olive-and-rust.docx"
+  },
+  {
+    "style": "ats-simple",
+    "styleName": "Classic Clean",
+    "color": "indigo-and-rose",
+    "colorName": "Indigo & Rose",
+    "file": "ats-simple__indigo-and-rose.docx"
+  },
+  {
+    "style": "ats-simple",
+    "styleName": "Classic Clean",
+    "color": "burgundy-and-umber",
+    "colorName": "Burgundy & Umber",
+    "file": "ats-simple__burgundy-and-umber.docx"
+  },
+  {
+    "style": "ats-simple",
+    "styleName": "Classic Clean",
+    "color": "steel-blue-and-amber",
+    "colorName": "Steel Blue & Amber",
+    "file": "ats-simple__steel-blue-and-amber.docx"
+  },
+  {
+    "style": "ats-simple",
+    "styleName": "Classic Clean",
+    "color": "emerald-and-ivory",
+    "colorName": "Emerald & Ivory",
+    "file": "ats-simple__emerald-and-ivory.docx"
+  },
+  {
+    "style": "ats-simple",
+    "styleName": "Classic Clean",
+    "color": "black-and-white",
+    "colorName": "Black & White",
+    "file": "ats-simple__black-and-white.docx"
+  },
+  {
+    "style": "modern-minimal",
+    "styleName": "Modern Minimal",
+    "color": "navy-and-gold",
+    "colorName": "Navy & Gold",
+    "file": "modern-minimal__navy-and-gold.docx"
+  },
+  {
+    "style": "modern-minimal",
+    "styleName": "Modern Minimal",
+    "color": "forest-and-copper",
+    "colorName": "Forest & Copper",
+    "file": "modern-minimal__forest-and-copper.docx"
+  },
+  {
+    "style": "modern-minimal",
+    "styleName": "Modern Minimal",
+    "color": "slate-and-teal",
+    "colorName": "Slate & Teal",
+    "file": "modern-minimal__slate-and-teal.docx"
+  },
+  {
+    "style": "modern-minimal",
+    "styleName": "Modern Minimal",
+    "color": "plum-and-mauve",
+    "colorName": "Plum & Mauve",
+    "file": "modern-minimal__plum-and-mauve.docx"
+  },
+  {
+    "style": "modern-minimal",
+    "styleName": "Modern Minimal",
+    "color": "charcoal-and-copper",
+    "colorName": "Charcoal & Copper",
+    "file": "modern-minimal__charcoal-and-copper.docx"
+  },
+  {
+    "style": "modern-minimal",
+    "styleName": "Modern Minimal",
+    "color": "crimson-and-charcoal",
+    "colorName": "Crimson & Charcoal",
+    "file": "modern-minimal__crimson-and-charcoal.docx"
+  },
+  {
+    "style": "modern-minimal",
+    "styleName": "Modern Minimal",
+    "color": "ocean-and-sand",
+    "colorName": "Ocean & Sand",
+    "file": "modern-minimal__ocean-and-sand.docx"
+  },
+  {
+    "style": "modern-minimal",
+    "styleName": "Modern Minimal",
+    "color": "olive-and-rust",
+    "colorName": "Olive & Rust",
+    "file": "modern-minimal__olive-and-rust.docx"
+  },
+  {
+    "style": "modern-minimal",
+    "styleName": "Modern Minimal",
+    "color": "indigo-and-rose",
+    "colorName": "Indigo & Rose",
+    "file": "modern-minimal__indigo-and-rose.docx"
+  },
+  {
+    "style": "modern-minimal",
+    "styleName": "Modern Minimal",
+    "color": "burgundy-and-umber",
+    "colorName": "Burgundy & Umber",
+    "file": "modern-minimal__burgundy-and-umber.docx"
+  },
+  {
+    "style": "modern-minimal",
+    "styleName": "Modern Minimal",
+    "color": "steel-blue-and-amber",
+    "colorName": "Steel Blue & Amber",
+    "file": "modern-minimal__steel-blue-and-amber.docx"
+  },
+  {
+    "style": "modern-minimal",
+    "styleName": "Modern Minimal",
+    "color": "emerald-and-ivory",
+    "colorName": "Emerald & Ivory",
+    "file": "modern-minimal__emerald-and-ivory.docx"
+  },
+  {
+    "style": "modern-minimal",
+    "styleName": "Modern Minimal",
+    "color": "black-and-white",
+    "colorName": "Black & White",
+    "file": "modern-minimal__black-and-white.docx"
+  }
+]
